@@ -1,6 +1,6 @@
 Dashboard-analysis
 
-This project is part of a collection of data visualization projects developed using Power BI. It focuses on transforming raw data into interactive dashboards and visual reports to support data-driven decision-making.
+This project is part of a collection of data visualization projects developed using Power BI. It focuses on transforming raw data into interactive dashboards and visual reports to support data-driven decision-making. And attached all dashboard png format file for easy to find.
 
 Objectives
 
@@ -24,3 +24,5 @@ KPI cards for key metrics
 Trend analysis using line charts
 Category-wise comparison using bar charts
 Summary insights using visual elements
+
+
